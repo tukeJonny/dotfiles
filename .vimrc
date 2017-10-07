@@ -12,8 +12,8 @@ set cmdheight=1 "コマンドラインの高さ
 set ignorecase "検索文字列が小文字のみの場合、大文字、小文字を区別しない
 set smartcase "検索文字列に大文字が含まれていると、大文字・小文字を区別する
 set hlsearch "検索ワードをハイライトする
-set tabstop=2 "タブ幅
-set shiftwidth=2 "インデント幅
+set tabstop=4 "タブ幅
+set shiftwidth=4 "インデント幅
 set laststatus=2 "常にステータス行を表示
 set statusline=%F%m%r%h%w\ [format=%{&ff}]\ [type=%Y]\ [ascii=\%03.3b]\ [hex=\%04B]\ [position=(%04l,%04v)][%p%%]\ [length=%L]
 set history=100 "記憶するコマンド数
